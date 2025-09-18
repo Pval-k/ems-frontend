@@ -1,8 +1,10 @@
+import ListEmployeeComponent from "./components/ListEmployeeComponent";
+
 function App() {
  
   return (
     <>
-      <h1>Hello</h1>
+      <ListEmployeeComponent />
     </>
   )
 }
